@@ -25,7 +25,7 @@ Passo 1: Clonar o Repositório
 
 Abra o terminal e execute:
 
-    git clone <apiGestaoAluguelVeiculos>
+    git clone https://github.com/GisellePorto/apiGestaoAluguelVeiculos
     cd apiGestaoAluguelVeiculos
 
 Passo 2: Iniciar o Banco de Dados (PostgreSQL via Docker)
